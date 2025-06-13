@@ -14,3 +14,6 @@ protected $middlewareGroups = [
 \App\Http\Middleware\ConvertSpecialHtml::class,
 
 4-Write riyal symbol in the control panel <sr></sr>
+
+project done to laravel Muktivendor project www.zoodn.com
+ Any questions contact hadeergalalfahmy@gmail.com
